@@ -1,0 +1,7 @@
+(datetime.datetime(2019, 12, 31, 17, 25, 1, 153767), 'Successfully added', '3', 'point(s),', '5', 'attempt(s), and', '1', 'win(s) to', 'test dummy')
+(datetime.datetime(2019, 12, 31, 17, 25, 47, 621972), 'Successfully added', '4', 'point(s),', '8', 'attempt(s), and', '0', 'win(s) to', 'test dummy')
+(datetime.datetime(2020, 1, 7, 20, 3, 16, 4202), 'Successfully added', '1', 'point(s),', '1', 'attempt(s), and', '1', 'win(s) to', '123')
+(datetime.datetime(2020, 1, 7, 20, 40, 19, 738167), 'Successfully added', '100', 'point(s),', '100', 'attempt(s), and', '100', 'win(s) to', 'daniel indictor')
+(datetime.datetime(2020, 1, 25, 22, 55, 56, 808017), 'Successfully added', '0', 'point(s),', '0', 'attempt(s), and', '0', 'win(s) to', 'test dummy')
+(datetime.datetime(2020, 1, 25, 22, 59, 51, 860499), 'Successfully added', '3', 'point(s),', '9', 'attempt(s), and', '1', 'win(s) to', 'test dummy')
+(datetime.datetime(2020, 1, 25, 23, 6, 24, 611595), 'Successfully added', '5', 'point(s),', '6', 'attempt(s), and', '1', 'win(s) to', 'test dummy 2')
